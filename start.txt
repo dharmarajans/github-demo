@@ -1,0 +1,7 @@
+Test Git quick start demo  >> start.txt
+
+exit
+quit
+:
+k
+echo Test Git quick start demo 
