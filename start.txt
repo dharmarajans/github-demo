@@ -5,3 +5,4 @@ quit
 :
 k
 echo Test Git quick start demo 
+Test Git Quick Start demo
